@@ -1,0 +1,13 @@
+{
+    "name": "Bkash",
+    "alias": "bkash",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bkash\\Providers\\BkashServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
